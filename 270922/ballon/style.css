@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(37, 37, 37);
+    height: 100vh;
+    margin:0;
+    display: flex;
+}
+
+.balloon{
+    height:100px;
+    width: auto;
+    border-radius: 50%;
+    background-color: red;
+    display: block;
+    aspect-ratio: 1;
+    margin:auto;
+
+}
